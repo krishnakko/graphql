@@ -1,0 +1,46 @@
+[
+  {
+    "id": "rJKAbDd_z",
+    "companyId": "HJRa-DOuG",
+    "title": "Frontend Developer",
+    "description": "We are looking for a Frontend Developer familiar with React."
+  },
+  {
+    "id": "SJRAZDu_z",
+    "companyId": "HJRa-DOuG",
+    "title": "Backend Developer",
+    "description": "We are looking for a Backend Developer familiar with Node.js and Express."
+  },
+  {
+    "id": "rkz1GwOOM",
+    "companyId": "SJV0-wdOM",
+    "title": "Full-Stack Developer",
+    "description": "We are looking for a Full-Stack Developer familiar with Node.js, Express, and React."
+  },
+  {
+    "id": "HyTEu8L6H",
+    "companyId": "SJV0-wdOM",
+    "title": "Tester",
+    "description": "Good at finding bugs"
+  },
+  {
+    "id": "HJvUcLUpH",
+    "title": "Data Engineer",
+    "description": "Data Extraction Role",
+    "companyId": "HJRa-DOuG"
+  },
+  {
+    "id": "SJy1oL8aS",
+    "title": "Product Manager",
+    "description": "You need to give some work to developers",
+    "companyId": "HJRa-DOuG"
+  },
+  {
+    "id": "BkPwZO8TH",
+    "companyId": "HJRa-DOuG"
+  },
+  {
+    "id": "H1StbdLaB",
+    "companyId": "HJRa-DOuG"
+  }
+]
